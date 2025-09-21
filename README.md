@@ -8,14 +8,19 @@ A community-driven lab for building, testing, and scaling next-generation AI sys
 ## We combine:
 
 -⚡ Open-source engineering practices
+
 -🔬 Research-driven experimentation
+
 -🌍 Global community collaboration
 
 ## This repository acts as a living lab where contributors, researchers, and engineers come together to:
 
 -Develop cutting-edge AI models
+
 -Build production-ready pipelines with MLOps best practices
+
 -Run reproducible experiments and benchmarks
+
 -Share knowledge, results, and insights
 
 ### 🔑 Mission
